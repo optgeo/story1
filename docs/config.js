@@ -50,6 +50,5 @@ var config = {
   "style": "https://optgeo.github.io/shizen/style.json",
   "subtitle": "mapbox/storytelling の活用",
   "theme": "dark",
-  "title": "地図表現のテスト",
-  "use3dTerrain": true
+  "title": "地図表現のテスト"
 }
